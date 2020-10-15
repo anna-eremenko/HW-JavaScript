@@ -17,5 +17,5 @@ else if (login == null || login == '') {
 		alert( 'Отменено' );
 	}
 else {
-	alert( 'Я вас не знаю' )
+	alert( 'Я вас не знаю' );
 }
